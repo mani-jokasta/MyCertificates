@@ -12,5 +12,8 @@ Python Data Structures - Coursera
 Course Link		:	https://www.coursera.org/learn/python-data
 Certificate Link	:	https://www.coursera.org/account/accomplishments/certificate/GKVVUZLQUPV7
 
+Using Python to Access Web Data - Coursera
+Course Link		:	https://www.coursera.org/learn/python-network-data
+Certificate Link	:	https://www.coursera.org/account/accomplishments/certificate/5KWBHJ6VKCA2
 
 
