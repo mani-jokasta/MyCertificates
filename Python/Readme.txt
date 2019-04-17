@@ -16,4 +16,8 @@ Using Python to Access Web Data - Coursera
 Course Link		:	https://www.coursera.org/learn/python-network-data
 Certificate Link	:	https://www.coursera.org/account/accomplishments/certificate/5KWBHJ6VKCA2
 
+Using Databases with Python - Coursera
+Course Link		:	https://www.coursera.org/learn/python-databases
+Certificate Link	:	https://www.coursera.org/account/accomplishments/certificate/LWD4YHZMM88H
+
 
