@@ -1,0 +1,59 @@
+Day - 01
+====================================================
+1. Develope a basic shell(similar to bash) to execute commands like cp, mv, cat, grep and wc commands
+
+2. Egg break algorithm
+Assume we have a building with 100 floors in it.  We also have just two eggs with us. Write an efficient algorithm for finding shortest possible way to check from which floor the egg will break. Most important is to find the shortest way to decide from which floor egg will break.
+
+3.	Write a program to create structure date.  Only valid dates must be allowed to be entered.
+Create two display functions that prints date in 2 formats “dd-mm-yyyy” and “MON dd yyyy”.
+Create a function, pass the dates. The function must compute the difference in dates in terms of number of days.
+
+4.	For a digital broadcasting application, we need to write a program that encodes numbers in the following way. Accept a five digit number as input and encode it by adding one to each of its digits.  If the input number is 92391 then encoded number must be 03402.  Write a program to decode as well. 
+
+Day - 02
+====================================================
+
+1.	Wap to create an array of strings dynamically and and sort them.
+2.	Write a calculator application which has add, sub, Mod, Square, cube &sqrt using function pointer compute.
+3.	Write program to sort an array of integers ascending or descending order using function pointer.
+4.	Write a program to search a word in a paragraph/sentence
+    • print how many times it present
+    • replace seaching word with ‘*’
+    • searching  word :Mindtree
+example:     Mindtree and  Mindtree banglore
+after replacement     ***** and ***** banglore
+
+Day - 03 & 04
+====================================================
+1.	Write a program to reverse   a single linked list (note:the original list is to be reversed)
+2.	Write a program to delete   k-nodes from the last in a single linked list
+3.	 Write a program to create a linked list of 5 integers and display the list. (Use structures and pointers)
+4.	Write a C program to detect a loop in a linked list
+5.	WAP to read a singly linked list backwards
+6.	Write a C program to remove duplicates from a sorted linked list
+7.	Write a C program to compare two linked lists.
+8.	 Write a C program to concatenate two linear linked list
+
+Day - 05
+====================================================
+1.	Write a program to implement stacks and queues using arrays.
+2.	Write a program to reverse a queue using stacks
+3.	Write a program to implementing infix to postfix conversion using stacks
+4.	Write a program to implement the basic operation of   SMS storage in a mobile
+Hint: Let us assume there are 10 connections (mobile) and one server [station]. Assume   mobile can hold maximum 13 messages. so server should maintain the information about all 10 users (mobile).SMS is storing in a server whenever particular user Mobile sms box is full. As soon as user deleting SMS from his mobile, SMS stored first, in a server will be moving to a particular customer phone (QUEUE).
+5.	Write a program to implement  Doubly Linked List and write a method isPalindrome() that returns true if the list is a palindrome.                                                  
+6.	Write a program to implement  Doubly Linked List and Implement a method rotate(r) that “rotates” a DLList so that list item i becomes list item (i + r) mod n         
+7.	Write a program to implement  Doubly Linked List and . Write a method, truncate(i), that truncates a DLList at position i. After the execution of this method, the size of the list is i and it contains only the elements at indices 0,...,i−1
+8.	Write a program to convert infix expression (3+2)*(43-21)/(84+7)  into postfix expression using stack. Use dynamic stack. 
+9.	Write a c program to implement multiple Queue in a single array
+10.	Write A program to push five items: A, B, C, D, and E  in a stack, One after the other starting from A. The stack is popped four times and each element is inserted in a queue. Then two elements are deleted from the queue and pushed back on the stack. Now one item is popped from the stack. Display the  popped item .
+
+
+Day - 06
+====================================================
+1.	Implement delete node function  for binary tree with
+i.	No child node
+ii.	One child node
+iii.	Two child node
+2.	Implement Binary Search Tree(BST) or AVL Tree
