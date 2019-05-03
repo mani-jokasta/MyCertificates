@@ -4,6 +4,11 @@ Links to Courses and Certificates
 Python Deep Dive - Spring People
 Course Link		: 	https://lndcloud.springpeople.com/training/learner/79816b2f-6061-4ca7-b22c-00c2e8ffd60f
 
+
+Python for Everybody Specialization - Coursera, University of Michigan
+Specialization Link	:	https://www.coursera.org/specializations/python
+Certificate Link	:	https://www.coursera.org/account/accomplishments/specialization/certificate/8E4CRVWNCDKP
+
 Getting Started with Python - Coursera
 Course Link		: 	https://www.coursera.org/learn/python
 Certificate Link	:	https://www.coursera.org/account/accomplishments/certificate/9ZDR7KKJEGXE
@@ -22,7 +27,7 @@ Certificate Link	:	https://www.coursera.org/account/accomplishments/certificate/
 
 Capstone: Retrieving, Processing, and Visualizing Data with Python
 Course Link		:	https://www.coursera.org/learn/python-data-visualization
-Certificate Link	:	
+Certificate Link	:	https://www.coursera.org/account/accomplishments/certificate/EYP4LJEQ7N3D
 
 
 
